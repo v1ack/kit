@@ -1,5 +1,11 @@
 # @sveltejs/adapter-node
 
+## 1.0.0-next.26
+
+### Minor Changes
+
+- 9a7195b: Allow sirv to looks for precompiled gzip and brotli files by default
+
 ## 1.0.0-next.25
 
 ### Patch Changes
